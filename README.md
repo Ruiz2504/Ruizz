@@ -17,7 +17,7 @@ La idea detrás del Método de Gauss - Jordan se fundamenta en obtener la forma 
 
 En el método de Gauss-Seidel se propone ir sustituyendo los nuevos valores de la aproximación siguiente conforme se vayan obteniendo sin esperar a tener un vector completo. De esta forma se acelera la convergencia.
 
-<a href="https://github.com/Ruiz2504/Ruizz/blob/main/Gauss%20Jordan.zip"> <font font face = "arial"> Aplicaciones </font> </a>
+<a href="https://github.com/Ruiz2504/Ruizz/blob/main/Gauss%20Seidel.zip"> <font font face = "arial"> Aplicaciones </font> </a>
 
 # Método Jacobi
 
