@@ -23,4 +23,4 @@ En el método de Gauss-Seidel se propone ir sustituyendo los nuevos valores de l
 
 Los métodos iterativos de Jacobi y Gauss-Seidel son los procesos de aproximaciones sucesivas para resolver sistemas de ecuaciones lineales compatibles determinados. Ambos requieren de la verificación de un criterio de convergencia comúnmente conocido como diagonal pesada.
 
-<a href="https://github.com/Ruiz2504/Ruizz/blob/main/Gauss%20Jordan.zip"> <font font face = "arial"> Aplicaciones </font> </a>
+<a href="https://github.com/Ruiz2504/Ruizz/blob/main/Jacobi.zip"> <font font face = "arial"> Aplicaciones </font> </a>
