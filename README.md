@@ -1,4 +1,11 @@
 # Ruizz
+Trabajo en colaboración con:
+-López Gutierrez Nili Estefanía
+-Mogollan Agis Kate Michelle
+-Hernández Zavala Gabriel
+-De Santiago Castillo Evelyn
+-Alvarez Rivera Angel
+-Diego Ruiz Aguilera
 
 # Metodo Eliminación Gaussiana
 
